@@ -84,7 +84,8 @@ jvs-rules是基于JVS快速开发平台上构建的一个原生应用，整体�
 
 ### 技术交流与商务支持
 
-![输入图片说明](img/1030.png)
+![群二维码](https://github.com/RKQF-JVS/jvs-rules/assets/94048608/6bc53e3a-39c8-43e7-b5fd-39d47a292c81)
+
 如因人数限制无法加群时，可加运营同学拉入技术交流群
 
 ![输入图片说明](https://foruda.gitee.com/images/1693376631879434922/54ec140e_10006021.png "屏幕截图")
