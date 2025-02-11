@@ -40,7 +40,8 @@ jvs-rules是基于JVS快速开发平台上构建的一个原生应用，整体�
 - 规则引擎：http://rules.bctools.cn/
 - 逻辑引擎：http://logic.bctools.cn/
 - 视频会议：http://meeting.bctools.cn/
-- 
+- APS（智能排产）：https://aps.bctools.cn/
+  
 
 
 
@@ -84,7 +85,8 @@ jvs-rules是基于JVS快速开发平台上构建的一个原生应用，整体�
 
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-rules/assets/94048608/fdd11d5d-676b-4699-b986-fc75f39c1cd4)
+![微信图片_20250211100806](https://github.com/user-attachments/assets/d0cea5bb-e190-4a29-bba1-738b9022e470)
+
 
 
 
