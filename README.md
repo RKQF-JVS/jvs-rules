@@ -85,7 +85,7 @@ jvs-rules是基于JVS快速开发平台上构建的一个原生应用，整体�
 
 ### 技术交流与商务支持
 
-<img width="210" height="347" alt="微信图片_20250731084838_14" src="https://github.com/user-attachments/assets/c00f121b-e0d3-4fbd-b441-965b34d11999" />
+<img width="236" height="422" alt="微信图片_20250806092349_25" src="https://github.com/user-attachments/assets/9ac82235-feeb-42d9-a038-49377c13a392" />
 
 
 
